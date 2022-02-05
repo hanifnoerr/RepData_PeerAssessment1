@@ -9,7 +9,7 @@ output:
 ## Loading and preprocessing the data
 
 1. Code for reading in the dataset and/or processing the data
-2. 
+
 ```{r}
 library("data.table")
 library(ggplot2)
